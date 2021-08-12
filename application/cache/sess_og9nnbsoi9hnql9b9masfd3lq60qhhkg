@@ -1,0 +1,6 @@
+__ci_last_regenerate|i:1628714905;current_language|s:7:"english";identity|s:15:"admin@admin.com";username|s:14:"Admin istrator";email|s:15:"admin@admin.com";user_id|s:1:"1";old_last_login|s:10:"1628713584";message|s:267:" <!-- <div class='col-md-12'> -->
+										<div class='alert alert-success'>
+											<a href='#' class='close' data-dismiss='alert'>&times;</a>
+											<strong>Success!</strong> Language successfully changed to English
+										</div>
+									<!-- </div> -->";__ci_vars|a:1:{s:7:"message";s:3:"old";}
